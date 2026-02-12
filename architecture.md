@@ -22,6 +22,7 @@
 12. [Cross-Cutting Concerns](#12-cross-cutting-concerns)
 
 ---
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/701b8876-06ce-4839-a815-199191574097" />
 
 ## 1. Architectural Overview
 
